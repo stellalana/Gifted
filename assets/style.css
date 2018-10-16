@@ -48,3 +48,11 @@ p {
     padding: 0px;
     margin: 0px;
 }
+
+input {
+    text-align: center;
+}
+
+#addTopic {
+    margin-top: 5px;
+}
