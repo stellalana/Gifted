@@ -6,6 +6,7 @@
 
 body {
     background-image: url("images/golddata.jpg");
+    background-size: cover;
 }
 
 .container-gifs {
